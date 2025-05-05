@@ -1,0 +1,54 @@
+{
+  "common": {
+    "welcome": "Benvenuto su OuiBooking",
+    "email": "Email",
+    "password": "Password",
+    "login": "Accedi",
+    "signup": "Registrati",
+    "logout": "Esci",
+    "name": "Nome",
+    "save": "Salva",
+    "cancel": "Annulla",
+    "edit": "Modifica",
+    "delete": "Elimina",
+    "create": "Crea",
+    "submit": "Invia",
+    "search": "Cerca",
+    "loading": "Caricamento...",
+    "error": "Si è verificato un errore",
+    "success": "Successo",
+    "confirm": "Conferma",
+    "dashboard": "Dashboard",
+    "settings": "Impostazioni",
+    "profile": "Profilo",
+    "language": "Lingua",
+    "users": "Utenti",
+    "bots": "Bot",
+    "createBot": "Crea Bot",
+    "back": "Indietro",
+    "next": "Avanti",
+    "finish": "Fine"
+  },
+  "languages": {
+    "en": "Inglese",
+    "fr": "Francese",
+    "it": "Italiano",
+    "es": "Spagnolo",
+    "ru": "Russo",
+    "ar": "Arabo",
+    "th": "Tailandese"
+  },
+  "landing": {
+    "hero": {
+      "title": "Piattaforma di Agenti IA per Imprese e Automazione dei Contact Center",
+      "subtitle": "Migliorare l'esperienza del cliente con agenti IA conversazionali + Copilot",
+      "cta": "Prenota una Demo",
+      "login": "Accedi",
+      "signup": "Registrati"
+    },
+    "features": {
+      "title": "Innovazione in ogni interazione",
+      "subtitle": "Chat o voce, attraverso uno spettro di casi d'uso"
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "common": {
+    "welcome": "Bienvenue sur OuiBooking",
+    "email": "Email",
+    "password": "Mot de passe",
+    "login": "Connexion",
+    "signup": "S'inscrire",
+    "logout": "Déconnexion",
+    "name": "Nom",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "create": "Créer",
+    "submit": "Soumettre",
+    "search": "Rechercher",
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "success": "Succès",
+    "confirm": "Confirmer",
+    "dashboard": "Tableau de bord",
+    "settings": "Paramètres",
+    "profile": "Profil",
+    "language": "Langue",
+    "users": "Utilisateurs",
+    "bots": "Bots",
+    "createBot": "Créer un Bot",
+    "back": "Retour",
+    "next": "Suivant",
+    "finish": "Terminer"
+  },
+  "languages": {
+    "en": "Anglais",
+    "fr": "Français",
+    "it": "Italien",
+    "es": "Espagnol",
+    "ru": "Russe",
+    "ar": "Arabe",
+    "th": "Thaï"
+  },
+  "landing": {
+    "hero": {
+      "title": "Plateforme d'agents IA pour les entreprises et l'automatisation des centres de contact",
+      "subtitle": "Améliorer l'expérience client avec des agents IA de flux de travail conversationnels + Copilot",
+      "cta": "Planifier une démo",
+      "login": "Connexion",
+      "signup": "S'inscrire"
+    },
+    "features": {
+      "title": "Innovation dans chaque interaction",
+      "subtitle": "Chat ou voix, à travers un spectre de cas d'utilisation"
+    }
+  },
+  "auth": {
+    "loginTitle": "Connectez-vous à votre compte",
+    "signupTitle": "Créer un nouveau compte",
+    "forgotPassword": "Mot de passe oublié ?",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "hasAccount": "Vous avez déjà un compte ?",
+    "passwordRequirements": "Le mot de passe doit comporter au moins 8 caractères",
+    "signupSuccess": "Compte créé avec succès",
+    "loginError": "Email ou mot de passe invalide",
+    "signupError": "L'email est déjà utilisé"
+  },
+  "dashboard": {
+    "welcome": "Bienvenue sur votre tableau de bord",
+    "statistics": "Statistiques",
+    "totalBots": "Total des Bots",
+    "activeBots": "Bots Actifs",
+    "totalUsers": "Total des Utilisateurs",
+    "totalInteractions": "Total des Interactions",
+    "botsByIndustry": "Bots par Industrie",
+    "recentActivity": "Activité Récente",
+    "viewAll": "Voir tout"
+  },
+  "bots": {
+    "list": "Vos Bots",
+    "create": "Créer un Nouveau Bot",
+    "name": "Nom du Bot",
+    "industry": "Industrie",
+    "goal": "Objectif",
+    "languages": "Langues",
+    "status": "Statut",
+    "created": "Créé le",
+    "updated": "Mis à jour le",
+    "metrics": "Métriques",
+    "interactions": "Interactions",
+    "successRate": "Taux de réussite",
+    "avgConversationLength": "Durée moyenne de conversation",
+    "active": "Actif",
+    "inactive": "Inactif",
+    "activateBot": "Activer le Bot",
+    "deactivateBot": "Désactiver le Bot",
+    "deleteConfirm": "Êtes-vous sûr de vouloir supprimer ce bot ?",
+    "noBotsFound": "Aucun bot trouvé",
+    "createSuccess": "Bot créé avec succès",
+    "updateSuccess": "Bot mis à jour avec succès",
+    "deleteSuccess": "Bot supprimé avec succès"
+  },
+  "users": {
+    "list": "Gestion des Utilisateurs",
+    "addUser": "Ajouter un Utilisateur",
+    "editUser": "Modifier l'Utilisateur",
+    "name": "Nom",
+    "email": "Email",
+    "role": "Rôle",
+    "created": "Créé le",
+    "admin": "Administrateur",
+    "user": "Utilisateur",
+    "deleteConfirm": "Êtes-vous sûr de vouloir supprimer cet utilisateur ?",
+    "noUsersFound": "Aucun utilisateur trouvé",
+    "createSuccess": "Utilisateur créé avec succès",
+    "updateSuccess": "Utilisateur mis à jour avec succès",
+    "deleteSuccess": "Utilisateur supprimé avec succès"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "profile": "Paramètres du Profil",
+    "appearance": "Apparence",
+    "notifications": "Notifications",
+    "language": "Langue",
+    "security": "Sécurité",
+    "theme": "Thème",
+    "light": "Clair",
+    "dark": "Sombre",
+    "system": "Système",
+    "updateSuccess": "Paramètres mis à jour avec succès"
+  },
+  "createBot": {
+    "title": "Créer un Nouveau Bot",
+    "steps": {
+      "basics": "Informations de Base",
+      "industry": "Sélection de l'Industrie",
+      "goals": "Objectifs et Fonctionnalités",
+      "languages": "Langues",
+      "review": "Révision"
+    },
+    "fields": {
+      "name": "Nom du Bot",
+      "nameDescription": "Entrez un nom pour votre bot",
+      "industry": "Industrie",
+      "industryDescription": "Sélectionnez l'industrie dans laquelle votre bot opérera",
+      "goal": "Objectif Principal",
+      "goalDescription": "Décrivez ce que votre bot devrait accomplir",
+      "languages": "Langues Supportées",
+      "languagesDescription": "Sélectionnez les langues que votre bot prendra en charge"
+    },
+    "review": {
+      "title": "Réviser la Configuration de Votre Bot",
+      "description": "Veuillez vérifier les informations ci-dessous avant de créer votre bot."
+    }
+  }
+}

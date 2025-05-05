@@ -1,0 +1,153 @@
+{
+  "common": {
+    "welcome": "Welcome to OuiBooking",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "name": "Name",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "create": "Create",
+    "submit": "Submit",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "confirm": "Confirm",
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "profile": "Profile",
+    "language": "Language",
+    "users": "Users",
+    "bots": "Bots",
+    "createBot": "Create Bot",
+    "back": "Back",
+    "next": "Next",
+    "finish": "Finish"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "French",
+    "it": "Italian",
+    "es": "Spanish",
+    "ru": "Russian",
+    "ar": "Arabic",
+    "th": "Thai"
+  },
+  "landing": {
+    "hero": {
+      "title": "AI Agent Platform for Enterprises and Contact Center Automation",
+      "subtitle": "Elevating Customer Experience with Conversational Workflow AI Agents + Copilot",
+      "cta": "Schedule a Demo",
+      "login": "Login",
+      "signup": "Sign Up"
+    },
+    "features": {
+      "title": "Innovation in Every Interaction",
+      "subtitle": "Chat or Voice, Across a Spectrum of Use-Cases"
+    }
+  },
+  "auth": {
+    "loginTitle": "Sign in to your account",
+    "signupTitle": "Create a new account",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "passwordRequirements": "Password must be at least 8 characters",
+    "signupSuccess": "Account created successfully",
+    "loginError": "Invalid email or password",
+    "signupError": "Email is already in use"
+  },
+  "dashboard": {
+    "welcome": "Welcome to your dashboard",
+    "statistics": "Statistics",
+    "totalBots": "Total Bots",
+    "activeBots": "Active Bots",
+    "totalUsers": "Total Users",
+    "totalInteractions": "Total Interactions",
+    "botsByIndustry": "Bots by Industry",
+    "recentActivity": "Recent Activity",
+    "viewAll": "View All"
+  },
+  "bots": {
+    "list": "Your Bots",
+    "create": "Create New Bot",
+    "name": "Bot Name",
+    "industry": "Industry",
+    "goal": "Goal",
+    "languages": "Languages",
+    "status": "Status",
+    "created": "Created",
+    "updated": "Updated",
+    "metrics": "Metrics",
+    "interactions": "Interactions",
+    "successRate": "Success Rate",
+    "avgConversationLength": "Avg. Conversation Length",
+    "active": "Active",
+    "inactive": "Inactive",
+    "activateBot": "Activate Bot",
+    "deactivateBot": "Deactivate Bot",
+    "deleteConfirm": "Are you sure you want to delete this bot?",
+    "noBotsFound": "No bots found",
+    "createSuccess": "Bot created successfully",
+    "updateSuccess": "Bot updated successfully",
+    "deleteSuccess": "Bot deleted successfully"
+  },
+  "users": {
+    "list": "User Management",
+    "addUser": "Add User",
+    "editUser": "Edit User",
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "created": "Created",
+    "admin": "Admin",
+    "user": "User",
+    "deleteConfirm": "Are you sure you want to delete this user?",
+    "noUsersFound": "No users found",
+    "createSuccess": "User created successfully",
+    "updateSuccess": "User updated successfully",
+    "deleteSuccess": "User deleted successfully"
+  },
+  "settings": {
+    "title": "Settings",
+    "profile": "Profile Settings",
+    "appearance": "Appearance",
+    "notifications": "Notifications",
+    "language": "Language",
+    "security": "Security",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "updateSuccess": "Settings updated successfully"
+  },
+  "createBot": {
+    "title": "Create a New Bot",
+    "steps": {
+      "basics": "Basic Information",
+      "industry": "Industry Selection",
+      "goals": "Goals & Features",
+      "languages": "Languages",
+      "review": "Review"
+    },
+    "fields": {
+      "name": "Bot Name",
+      "nameDescription": "Enter a name for your bot",
+      "industry": "Industry",
+      "industryDescription": "Select the industry your bot will operate in",
+      "goal": "Primary Goal",
+      "goalDescription": "Describe what your bot should accomplish",
+      "languages": "Supported Languages",
+      "languagesDescription": "Select languages your bot will support"
+    },
+    "review": {
+      "title": "Review Your Bot Configuration",
+      "description": "Please review the information below before creating your bot."
+    }
+  }
+}
